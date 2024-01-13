@@ -33,41 +33,40 @@
 
 ### 4.1 登录
 
-![登录](https://s2.loli.net/2023/10/16/iPV96YyQCNLKTqw.jpg)
+![登录](https://www.codeshop.fun/Typora-Images/202312172116860.jpg)
 
 ### 4.2 管理员模块
 
-![管理员-学生管理](https://s2.loli.net/2023/10/16/nSdFBr8l1TZ9PCH.jpg)
+![管理员-视频分类管理](https://www.codeshop.fun/Typora-Images/202312172116440.jpg)
 
-![管理员-教师管理](https://s2.loli.net/2023/10/16/vBXmjl1xKnFCb6E.jpg)
+![管理员-视频信息管理](https://www.codeshop.fun/Typora-Images/202312172116471.jpg)
 
-![管理员-视频分类管理](https://s2.loli.net/2023/10/16/8zOvan59kQDy7qF.jpg)
+![管理员-学生管理](https://www.codeshop.fun/Typora-Images/202312172116487.jpg)
 
-![管理员-视频信息管理](https://s2.loli.net/2023/10/16/tBoDzSa5IlUYx7J.jpg)
+![管理员-公告管理](https://www.codeshop.fun/Typora-Images/202312172116500.jpg)
 
-![管理员-轮播图管理](https://s2.loli.net/2023/10/16/zA6HUWYrlShRPoZ.jpg)
+![管理员-教师管理](https://www.codeshop.fun/Typora-Images/202312172116510.jpg)
 
-![管理员-公告管理](https://s2.loli.net/2023/10/16/mvG4XYJt7KBWOrR.jpg)
+![管理员-轮播图管理](https://www.codeshop.fun/Typora-Images/202312172116529.jpg)
 
 ### 4.3 用户模块
 
-![首页](https://s2.loli.net/2023/10/16/XFHODjABE7bkoa5.jpg)
+![首页](https://www.codeshop.fun/Typora-Images/202312172116959.jpg)
 
-![视频详情](https://s2.loli.net/2023/10/16/LleJ6VyQY13ZHTb.jpg)
+![视频详情](https://www.codeshop.fun/Typora-Images/202312172116930.jpg)
 
 ### 4.4 教师模块
 
-![教师后端管理](https://s2.loli.net/2023/10/16/HPBel2EVY9f67kg.jpg)
+![教师添加视频](https://www.codeshop.fun/Typora-Images/202312172117432.jpg)
 
-![教师添加视频](https://s2.loli.net/2023/10/16/PjQAWXn6Ztfbshl.jpg)
-
-### 获取方式&视频演示
-
-下方扫一下，回复关键词：网络教学
-
-![202309291447341](https://s2.loli.net/2023/10/06/lxLMirNn2tyaIob.png)
+![教师后端管理](https://www.codeshop.fun/Typora-Images/202312172117447.jpg)
 
 
 
 
 
+## 获取方式
+
+下方扫一扫关注后，后台回复关键词：****，查看导入教程视频、sql脚本和完整源码等
+
+ ![](https://www.codeshop.fun/Typora-Images/202205281253739.png)
